@@ -60,7 +60,7 @@
           href="http://vuex.vuejs.org/"
           target="_blank"
         >
-          vuex
+          vuex是的撒旦撒旦
         </a>
       </li>
       <li>
